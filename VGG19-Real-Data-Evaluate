@@ -1,0 +1,7 @@
+WARNING:tensorflow:sample_weight modes were coerced from
+  ...
+    to  
+  ['...']
+20/20 [==============================] - 3s 160ms/step - loss: 0.2501 - accuracy: 0.9187
+loss: 0.25
+accuracy: 0.92
